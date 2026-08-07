@@ -1,7 +1,21 @@
-# TRACE 2026 — AI Observability & Testing
+# AI Evals and Observability
 
-An independent editorial recap of the TRACE 2026 conference by Braintrust,
-built from conference notes covering Braintrust, Notion, Dropbox, and Spotify.
+A curated collection of practical material on AI evaluation, observability,
+testing, and reliable agents.
+
+## Resources
+
+### Hamel's Eval Content
+
+- [LLM Evals: Everything You Need to Know](<Hamel's Eval Content/evals-faq.pdf>)
+  by Hamel Husain and Shreya Shankar.
+
+### Braintrust Related Conference
+
+- [TRACE 2026 — AI Observability & Testing](https://ankitrahejagatech.github.io/AI-Evals-and-Observability/),
+  an independent editorial recap built from conference notes covering
+  Braintrust, Notion, Dropbox, and Spotify.
+- [Conference resource details](<Braintrust Related Conference/README.md>).
 
 ## Development
 
@@ -17,7 +31,7 @@ npm run dev
 
 The GitHub Actions workflow publishes the site automatically from `main`.
 
-## Source material
+## Conference source material
 
 The page links back to the original Granola notes and the official
 [TRACE event page](https://braintrust.dev/trace).

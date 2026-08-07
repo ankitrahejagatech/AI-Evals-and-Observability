@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const isGitHubPages = process.env.GITHUB_ACTIONS === "true";
-const repositoryBasePath = "/braintrust-trace-2026";
+const repositoryBasePath = "/AI-Evals-and-Observability";
 
 const nextConfig: NextConfig = {
   output: "export",
