@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 const siteUrl =
-  "https://ankitrahejagatech.github.io/braintrust-trace-2026/";
+  "https://ankitrahejagatech.github.io/AI-Evals-and-Observability/";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
